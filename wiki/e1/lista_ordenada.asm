@@ -211,33 +211,35 @@ fin_insert:
   
 #-----  void print(node *first): Imprimir los elementos de menor a mayor
 print:
+
+	#-- Si fist es 0 retornar
+	bne $a0,0, print_rec
+	jr $ra
+	
+	#-- Imprimir de forma recursiva
+print_rec:	
         #-- Crear marco de pila
 	addi $sp, $sp, -32
         sw $ra, 20($sp)
         sw $fp, 16($sp)
         addi $fp, $sp, 28
 	
-	#-- Guardar en la pila a0 (fist)
+	#-- Guardar en la pila a0 (first)
 	sw $a0, 0($fp)
 
-	#-- ¿es el ultimo nodo?
-	#-- first->next = 0?
-	lw $t0, 4($a0)
-	beq $t0,0, print_val
-	
-	#--- Imprime los anteriores
+	#--- Imprime los siguientes
 	#-- print(first->next)
-	move $a0,$t0
+	lw $a0, 4($a0)
 	jal print
 	
 	#-- Imprime el valor de este nodo
 	#-- Recuperar el puntero del nodo de la pila
 	lw $a0, 0($fp)
 	
-print_val:	
-	
-	#-- Imprimir el valor (si es diferente del centinela)
+	#-- Obtener el valor del nodo
 	lw $a0, 0($a0)
+	
+	#-- Solo se imprime si es diferente del centinela (0).
 	beq $a0,0,fin_print
 	
 	#-- Imprimir valor
