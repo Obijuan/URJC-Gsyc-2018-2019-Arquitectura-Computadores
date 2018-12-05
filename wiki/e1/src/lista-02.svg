@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="558.91327mm"
+   height="187.90021mm"
+   viewBox="0 0 558.91327 187.90021"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="lista-02.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1009"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1827"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1825"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path894"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-6-1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-9-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-6-1-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-65"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-69"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-1-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-4-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-1-8-7"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-1-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-3-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-1-6-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-9-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-6-1-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-3-93"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-6-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path894-62"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-1-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-5-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-1-5-6"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1017.9786"
+     inkscape:cy="226.51401"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="back"
+     transform="translate(4.2763124,-4.8744054)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18478775;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3679"
+       width="558.91327"
+       height="187.90021"
+       x="-4.2763124"
+       y="4.8744054"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="frame"
+     transform="translate(4.2763124,-4.8744054)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.18478775;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3676"
+       width="540.36261"
+       height="175.33362"
+       x="5.2982192"
+       y="11.456897"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4.2763124,-4.8744054)">
+    <circle
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.44336396;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path819-3-0-2"
+       cx="138.95589"
+       cy="146.93698"
+       r="14.884364"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="71.730972"
+       y="84.735634"
+       id="text817"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="71.730972"
+         y="84.735634"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.59239388">Val3</tspan></text>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.44336396;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path819"
+       cx="72.154106"
+       cy="81.350517"
+       r="14.884364"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="125.89269"
+       y="28.902893"
+       id="text861"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan859"
+         x="125.89269"
+         y="28.902893"
+         style="stroke-width:0.59239388"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.59239388"
+   id="tspan863">Caso 2</tspan>: Insertar el nodo al final de la lista</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 31.109669,80.504245 H 56.074841"
+       id="path865"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="39.784012"
+       y="77.330696"
+       id="text1151"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1149"
+         x="39.784012"
+         y="77.330696"
+         style="stroke-width:0.59239388">first</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="127.98134"
+       y="84.735649"
+       id="text817-7"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-5"
+         x="127.98134"
+         y="84.735649"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.59239388">Val2</tspan></text>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.44336396;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path819-3"
+       cx="128.4045"
+       cy="81.350517"
+       r="14.884364"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-3)"
+       d="M 87.360045,80.504253 H 112.32522"
+       id="path865-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="61.466095"
+       y="146.93744"
+       id="text1151-6"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1149-2"
+         x="61.466095"
+         y="146.93744"
+         style="stroke-width:0.59239388">Nodo nuevo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="184.23169"
+       y="84.735649"
+       id="text817-7-2"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-5-7"
+         x="184.23169"
+         y="84.735649"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.59239388">Val1</tspan></text>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.44336396;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path819-3-0"
+       cx="184.65486"
+       cy="81.350517"
+       r="14.884364"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-9)"
+       d="m 143.61042,80.504253 h 24.96516"
+       id="path865-5-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 199.51881,80.715813 h 17.7718 v 8.039634"
+       id="path1263"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 208.4047,88.967019 h 19.67596"
+       id="path1265"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 208.4047,88.967019 -0.96483,3.600842"
+       id="path1267"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 210.36172,88.967019 -0.96484,3.600842"
+       id="path1267-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 212.37163,88.967019 -0.96484,3.600842"
+       id="path1267-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 214.32864,88.967019 -0.96485,3.600842"
+       id="path1267-3-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 216.23277,88.967019 -0.96483,3.600842"
+       id="path1267-62"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 218.18979,88.967019 -0.96484,3.600842"
+       id="path1267-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 220.19968,88.967019 -0.96483,3.600842"
+       id="path1267-6-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 222.1567,88.967019 -0.96484,3.600842"
+       id="path1267-3-0-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 223.90215,88.967019 -0.96484,3.600842"
+       id="path1267-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 225.85916,88.967019 -0.96482,3.600842"
+       id="path1267-3-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 228.13354,88.967019 -0.96484,3.600842"
+       id="path1267-6-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="138.53275"
+       y="150.32211"
+       id="text817-7-2-9"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-5-7-2"
+         x="138.53275"
+         y="150.32211"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ff0000;stroke-width:0.59239388">Val</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 153.81984,146.30229 h 17.77181 v 8.03963"
+       id="path1263-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 162.70575,154.55349 H 182.3817"
+       id="path1265-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 162.70575,154.55349 -0.96485,3.60085"
+       id="path1267-73"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 164.66276,154.55349 -0.96484,3.60085"
+       id="path1267-3-61"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 166.67266,154.55349 -0.96483,3.60085"
+       id="path1267-6-29"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 168.62968,154.55349 -0.96484,3.60085"
+       id="path1267-3-0-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 170.53381,154.55349 -0.96484,3.60085"
+       id="path1267-62-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 172.49083,154.55349 -0.96484,3.60085"
+       id="path1267-3-6-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 174.50072,154.55349 -0.96484,3.60085"
+       id="path1267-6-1-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 176.45774,154.55349 -0.96484,3.60085"
+       id="path1267-3-0-8-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 178.2032,154.55349 -0.96485,3.60085"
+       id="path1267-7-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 180.1602,154.55349 -0.96484,3.60085"
+       id="path1267-3-9-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 182.43458,154.55349 -0.96484,3.60085"
+       id="path1267-6-2-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="126.15095"
+       y="109.518"
+       id="text817-7-2-9-0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-5-7-2-3"
+         x="126.15095"
+         y="109.518"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.59239388">Val3 <tspan
+   style="fill:#000000;stroke-width:0.59239388"
+   id="tspan2000">&gt;</tspan> Val2 <tspan
+   style="fill:#000000;stroke-width:0.59239388"
+   id="tspan2002">&gt;</tspan> Val1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-6)"
+       d="M 96.883047,145.93385 H 121.84821"
+       id="path865-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="103.01856"
+       y="140.64461"
+       id="text1151-63"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1149-20"
+         x="103.01856"
+         y="140.64461"
+         style="stroke-width:0.59239388">p</tspan></text>
+    <path
+       id="path1969"
+       style="fill:#ffeeaa;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.18478787;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 274.03533,140.83739 36.52633,-20.97502 -36.52633,-20.975008 0.0201,11.735768 -49.72906,0.31213 v 18.85255 l 49.72906,0 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="265.37167"
+       y="123.03868"
+       id="text817-7-2-9-0-6"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-5-7-2-3-1"
+         x="265.37167"
+         y="123.03868"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#008000;stroke-width:0.59239388"><tspan
+   style="fill:#000000;stroke-width:0.59239388"
+   id="tspan1994">Si</tspan> t1-&gt;next <tspan
+   style="fill:#000000"
+   id="tspan1832">== 0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="367.96335"
+       y="138.06441"
+       id="text1151-6-1"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1149-2-5"
+         x="367.96335"
+         y="138.06441"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.59239388">Operaciones:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="379.31454"
+       y="152.29893"
+       id="text1151-6-9"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1149-2-7"
+         x="379.31454"
+         y="152.29893"
+         style="stroke-width:0.59239388">t1-&gt;next = p</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="376.67859"
+       y="163.62303"
+       id="text1151-6-9-7"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1149-2-7-6"
+         x="376.67859"
+         y="163.62303"
+         style="stroke-width:0.59239388">Devolver 0</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-6-3)"
+       d="m 186.36254,51.299404 -0.27906,14.080653"
+       id="path865-0-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="195.25618"
+       y="53.996204"
+       id="text1151-63-5"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1149-20-3"
+         x="195.25618"
+         y="53.996204"
+         style="stroke-width:0.59239388;fill:#008000">t1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.73229933px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="237.84782"
+       y="53.115566"
+       id="text1151-6-5"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="237.84782"
+         y="53.115566"
+         style="stroke-width:0.59239388;-inkscape-font-specification:'ubuntu Italic';font-family:ubuntu;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+         id="tspan1810">Puntero usado para</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.73229933px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="230.52214"
+       y="61.608093"
+       id="text1151-6-5-2"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="230.52214"
+         y="61.608093"
+         style="stroke-width:0.59239388;-inkscape-font-specification:'ubuntu Italic';font-family:ubuntu;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+         id="tspan1810-9">recorrer la lista</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="345.94949"
+       y="84.735634"
+       id="text817-6"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-1"
+         x="345.94949"
+         y="84.735634"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.59239388">Val3</tspan></text>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.44336399;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path819-8"
+       cx="346.37265"
+       cy="81.350517"
+       r="14.884364"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-0)"
+       d="m 305.3282,80.504246 h 24.96517"
+       id="path865-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="314.00253"
+       y="77.330696"
+       id="text1151-9"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1149-202"
+         x="314.00253"
+         y="77.330696"
+         style="stroke-width:0.59239388">first</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="402.19986"
+       y="84.735649"
+       id="text817-7-3"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-5-75"
+         x="402.19986"
+         y="84.735649"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.59239388">Val2</tspan></text>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.44336399;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path819-3-9"
+       cx="402.62302"
+       cy="81.350517"
+       r="14.884364"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-93)"
+       d="m 361.57858,80.504254 h 24.96517"
+       id="path865-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="458.45023"
+       y="84.735649"
+       id="text817-7-2-2"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-5-7-8"
+         x="458.45023"
+         y="84.735649"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.59239388">Val1</tspan></text>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.44336399;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path819-3-0-9"
+       cx="458.87341"
+       cy="81.350517"
+       r="14.884364"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-9-7)"
+       d="m 417.82895,80.504254 h 24.96516"
+       id="path865-5-9-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-6-3-1)"
+       d="m 460.58107,51.299405 -0.27906,14.080654"
+       id="path865-0-7-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="469.4747"
+       y="53.996204"
+       id="text1151-63-5-6"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1149-20-3-1"
+         x="469.4747"
+         y="53.996204"
+         style="fill:#008000;stroke-width:0.59239388">t1</tspan></text>
+    <circle
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.44336399;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path819-3-0-2-4"
+       cx="488.96182"
+       cy="146.93698"
+       r="14.884364"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="488.5387"
+       y="150.32211"
+       id="text817-7-2-9-7"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-5-7-2-6"
+         x="488.5387"
+         y="150.32211"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#ff0000;stroke-width:0.59239388">Val</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 503.82579,146.30229 h 17.77181 v 8.03963"
+       id="path1263-8-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 512.7117,154.55349 h 19.67595"
+       id="path1265-9-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 512.7117,154.55349 -0.96485,3.60085"
+       id="path1267-73-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 514.66871,154.55349 -0.96484,3.60085"
+       id="path1267-3-61-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 516.67861,154.55349 -0.96483,3.60085"
+       id="path1267-6-29-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 518.63563,154.55349 -0.96484,3.60085"
+       id="path1267-3-0-3-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 520.53976,154.55349 -0.96484,3.60085"
+       id="path1267-62-1-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 522.49678,154.55349 -0.96484,3.60085"
+       id="path1267-3-6-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 524.50667,154.55349 -0.96484,3.60085"
+       id="path1267-6-1-4-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 526.46369,154.55349 -0.96484,3.60085"
+       id="path1267-3-0-8-7-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 528.20915,154.55349 -0.96485,3.60085"
+       id="path1267-7-8-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 530.16615,154.55349 -0.96484,3.60085"
+       id="path1267-3-9-4-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59332681;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 532.44053,154.55349 -0.96484,3.60085"
+       id="path1267-6-2-5-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.59239388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-6-5-8)"
+       d="M 464.71673,94.524329 482.9095,132.68047"
+       id="path865-0-3-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.478302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.59239388"
+       x="400.68387"
+       y="109.84332"
+       id="text817-7-2-9-0-8"
+       inkscape:export-filename="/home/obijuan/develop/URJC-Gsyc-2018-2019-Arquitectura-Computadores/wiki/e1/lista-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan815-5-7-2-3-4"
+         x="400.68387"
+         y="109.84332"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#0000ff;stroke-width:0.59239388">Val3 <tspan
+   style="fill:#000000;stroke-width:0.59239388"
+   id="tspan2000-3">&gt;</tspan> Val2 <tspan
+   style="fill:#000000;stroke-width:0.59239388"
+   id="tspan2002-1">&gt;</tspan> Val1 <tspan
+   style="fill:#000000"
+   id="tspan4097">&gt;</tspan> <tspan
+   style="fill:#ff0000"
+   id="tspan4095">Val</tspan></tspan></text>
+  </g>
+</svg>
