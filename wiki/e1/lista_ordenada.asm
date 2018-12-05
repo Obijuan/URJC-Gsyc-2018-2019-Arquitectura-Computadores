@@ -11,7 +11,6 @@
 
 	.text
 
-
 	#-- Crear nodo inicial, con val = 0, next = 0
 	#-- p = create_node(0, 0)  #-- a0 = 0,  a1 = 0
 	li $a0, 0
@@ -193,14 +192,12 @@ caso2: #-- Introducir el valor en el último nodo (cola)
 
 	#-- Introducir el valor en la cabeza
 caso1:	
-	#-------- nodo->next = fist
+        #-- En v0 está en nuevo nodo que hemos creado
+        #-- Lo colocamos delante
+	#-------- v0->next = first
 	sw  $a0, 4($v0)	
 	
-	#--- return nodo
-	#-- Devolver la nueva cadena
-	b fin_insert	
-	
-	
+	#--- return v0
 
 fin_insert:
         #-- Recuperar la pila		
