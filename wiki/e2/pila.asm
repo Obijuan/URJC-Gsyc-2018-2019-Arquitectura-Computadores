@@ -1,3 +1,4 @@
+
 	.data
 msg1:	.asciiz "Nodo eliminado: " 
 
